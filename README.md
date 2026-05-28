@@ -41,20 +41,6 @@ Risk Segmentation — Classified customers into Low / Medium / High risk using r
 KPI Design — DTI ratio, credit utilization rate, delinquency flags
 
 
-📁 File Structure
-paisabazaar-financial-dashboard/
-│
-├── data/
-│   └── banking_data_cleaned.xlsx       # Cleaned dataset
-├── dashboard/
-│   └── Paisabazaar_Dashboard.xlsx      # Main Excel dashboard
-├── screenshots/
-│   ├── dashboard_main.png
-│   ├── pivot_table.png
-│   ├── credit_score_pie.png
-│   └── kpi_table.png
-└── README.md
-
 🚀 How to Use
 
 Download Paisabazaar_Dashboard.xlsx
